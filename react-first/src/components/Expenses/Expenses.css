@@ -1,0 +1,10 @@
+.expenses{
+    justify-content: center;
+    background-color: black;
+    padding: 2%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
